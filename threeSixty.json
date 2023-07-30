@@ -1,0 +1,450 @@
+{
+  "version": "3.78.30747.0",
+  "course_id": "6467fRjqCjb",
+  "title": "Accessibility Training",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Main Project - How to create accessible material 3rd version"
+    },
+    {
+      "title": "Integration"
+    },
+    {
+      "title": "Triggering"
+    },
+    {
+      "title": "Exploration"
+    },
+    {
+      "title": "Integration"
+    },
+    {
+      "title": "Resolution"
+    },
+    {
+      "title": "Conclusion"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6lcB9NiJtlI",
+      "title": "Accessibility Material",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6gfecM8rUxN",
+      "title": "BIG IDEA",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "62GPcN8WFBS",
+      "title": "INTRODUCTION",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6axcIQ4H18L",
+      "title": "Introduction To The Instructor",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "5zIYa4QjsTD",
+      "title": "What is Accessibility",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "60E0Hf7A8oj",
+      "title": "It’s the Law",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "64NwVydOcak",
+      "title": "Rationale For Accessible Materials",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "5gXx0qsMt2H",
+      "title": "Assessment #1",
+      "scene_index": "2.7"
+    },
+    {
+      "id": "6kg1zjNg5bq",
+      "title": "Assessment #2",
+      "scene_index": "2.8"
+    },
+    {
+      "id": "5lpQcmDjT23",
+      "title": "TRIGGERING PHASE",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "5o0aU7kYFDt",
+      "title": "Common Barriers – Visual",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "67ixodEax0X",
+      "title": "Common Barriers - Auditory",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "6Oxkgwwel4V",
+      "title": "Common Barriers - Physical",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "6qD9Nxi22Qb",
+      "title": "Common Barriers - Cognitive",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "5tZdNSIaBwO",
+      "title": "Common Barriers - Speach",
+      "scene_index": "3.6"
+    },
+    {
+      "id": "5hlVXQkyIq9",
+      "title": "Icebreaker Activity",
+      "scene_index": "3.7"
+    },
+    {
+      "id": "6NdUsYSHoEd",
+      "title": "Icebreaker Activity",
+      "scene_index": "3.8"
+    },
+    {
+      "id": "6T1P45xXnnQ",
+      "title": "Assessment #3",
+      "scene_index": "3.9"
+    },
+    {
+      "id": "5n4icdytFgL",
+      "title": "Disability Discrimination Lawsuit",
+      "scene_index": "3.10"
+    },
+    {
+      "id": "6dHGVd49BRF",
+      "title": "Assessment #4",
+      "scene_index": "3.11"
+    },
+    {
+      "id": "6ESO8Y5MdeK",
+      "title": "Population Consideration",
+      "scene_index": "3.12"
+    },
+    {
+      "id": "6hReMnW1lSP",
+      "title": "Assessment #5",
+      "scene_index": "3.13"
+    },
+    {
+      "id": "6Y6BkHI0zcw",
+      "title": "Assessment #5 Debrief",
+      "scene_index": "3.14"
+    },
+    {
+      "id": "6QtahcwmXAP",
+      "title": "EXPLORATION PHASE",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "6XzOv8QFnTL",
+      "title": "Guidelines For Materials",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "6a0LqJMZHRP",
+      "title": "Guidelines for Materials #1",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "6FgyHBEnKdt",
+      "title": "Guidelines For Materials #2",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "62rRhVAjz4F",
+      "title": "Guidelines For Materials #3",
+      "scene_index": "4.5"
+    },
+    {
+      "id": "5hMOkWRUbcL",
+      "title": "Guidelines For Materials #4",
+      "scene_index": "4.6"
+    },
+    {
+      "id": "6Oia9swAklM",
+      "title": "Assessment #6",
+      "scene_index": "4.7"
+    },
+    {
+      "id": "5vVHPm22eWz",
+      "title": "Guidelines For Materials #5",
+      "scene_index": "4.8"
+    },
+    {
+      "id": "6BckO5KFTUY",
+      "title": "Guidelines For Materials #6",
+      "scene_index": "4.9"
+    },
+    {
+      "id": "6RSoElNYVVc",
+      "title": "Guidelines For Materials #6A",
+      "scene_index": "4.10"
+    },
+    {
+      "id": "5tGXmle8YD8",
+      "title": "Assessment #7",
+      "scene_index": "4.11"
+    },
+    {
+      "id": "5ypMkslXrEo",
+      "title": "Assessment #8",
+      "scene_index": "4.12"
+    },
+    {
+      "id": "60fNurKOVTn",
+      "title": "Guidelines For Materials #7",
+      "scene_index": "4.13"
+    },
+    {
+      "id": "6rOp68pDsT6",
+      "title": "Guidelines For Materials #8",
+      "scene_index": "4.14"
+    },
+    {
+      "id": "5pra7Juy2Ap",
+      "title": "Guidelines For Materials #9",
+      "scene_index": "4.15"
+    },
+    {
+      "id": "6hrmLcEK5Er",
+      "title": "Guidelines For Materials #10",
+      "scene_index": "4.16"
+    },
+    {
+      "id": "65hKxMMOzn9",
+      "title": "Legal Issues",
+      "scene_index": "4.17"
+    },
+    {
+      "id": "6pcLGFBFsO4",
+      "title": "Creating Accessible PDFS",
+      "scene_index": "4.18"
+    },
+    {
+      "id": "6AiPMpu8D26",
+      "title": "Basic Principles of UD",
+      "scene_index": "4.19"
+    },
+    {
+      "id": "5h9Fjp8vGhT",
+      "title": "Principles of UD - Equitable Use",
+      "scene_index": "4.20"
+    },
+    {
+      "id": "6RVgBTKewzT",
+      "title": "Principles of UD – Flexibility In Use",
+      "scene_index": "4.21"
+    },
+    {
+      "id": "69FvCBPeJJJ",
+      "title": "Assessment #9",
+      "scene_index": "4.22"
+    },
+    {
+      "id": "6Xea1DaRsIK",
+      "title": "Principles of UD – Simple & Intuitive",
+      "scene_index": "4.23"
+    },
+    {
+      "id": "5hNCgfqNlnj",
+      "title": "Principles of UD – Perceptible Info",
+      "scene_index": "4.24"
+    },
+    {
+      "id": "5nW02O1NVu7",
+      "title": "Principles of UD – Tolerance For Error",
+      "scene_index": "4.25"
+    },
+    {
+      "id": "6lWPDx0tWqd",
+      "title": "Principles of UD – Physical Effort",
+      "scene_index": "4.26"
+    },
+    {
+      "id": "6FqiMAkXHEJ",
+      "title": "Assessment #10",
+      "scene_index": "4.27"
+    },
+    {
+      "id": "6MbxDSG5TMC",
+      "title": "Principles of UD – Size & Space",
+      "scene_index": "4.28"
+    },
+    {
+      "id": "6racU3D4ufy",
+      "title": "INTEGRATION PHASE",
+      "scene_index": "5.1"
+    },
+    {
+      "id": "6ihGvTqZmnl",
+      "title": "Case Activity - Discussion",
+      "scene_index": "5.2"
+    },
+    {
+      "id": "5uSBnbAHhTp",
+      "title": "Case Activity – Choice #1",
+      "scene_index": "5.3"
+    },
+    {
+      "id": "6nFe5CmFV2t",
+      "title": "Case Activity – Choice Answer #1",
+      "scene_index": "5.4"
+    },
+    {
+      "id": "66oeGCc1ot2",
+      "title": "Case Activity - Discussion",
+      "scene_index": "5.5"
+    },
+    {
+      "id": "6FvVYJ3cJZy",
+      "title": "Case Activity – Choice #2",
+      "scene_index": "5.6"
+    },
+    {
+      "id": "68cJdqsFCEI",
+      "title": "Case Activity – Choice Answer #2",
+      "scene_index": "5.7"
+    },
+    {
+      "id": "65zJOoHornW",
+      "title": "Case Activity – Choice #3",
+      "scene_index": "5.8"
+    },
+    {
+      "id": "5qUoBQWGs2j",
+      "title": "RESOLUTION PHASE",
+      "scene_index": "6.1"
+    },
+    {
+      "id": "5wIYurogd7r",
+      "title": "Accessibility Answers",
+      "scene_index": "6.2"
+    },
+    {
+      "id": "5eHh8VfBPlT",
+      "title": "Assessment #13",
+      "scene_index": "6.3"
+    },
+    {
+      "id": "5WCC6gZpca0",
+      "title": "Remember The Context",
+      "scene_index": "6.4"
+    },
+    {
+      "id": "6WoOOtWAj7K",
+      "title": "Assessment #14",
+      "scene_index": "6.5"
+    },
+    {
+      "id": "6FafsxVcwiH",
+      "title": "Make Sure Tags Or Tools Are Supported",
+      "scene_index": "6.6"
+    },
+    {
+      "id": "6MLwtT36eAV",
+      "title": "Think About Accessibility Early",
+      "scene_index": "6.7"
+    },
+    {
+      "id": "6Oixw0wIhTr",
+      "title": "Assessment #15",
+      "scene_index": "6.8"
+    },
+    {
+      "id": "6Ucw2iVAdfw",
+      "title": "Be Patient with Experts and Users",
+      "scene_index": "6.9"
+    },
+    {
+      "id": "5c5tIiIBWND",
+      "title": "Keep up with Accessibility Developments",
+      "scene_index": "6.10"
+    },
+    {
+      "id": "5Ytzl7K2X3G",
+      "title": "Quiz Set Up",
+      "scene_index": "6.11"
+    },
+    {
+      "id": "5nSiomCMuKh",
+      "title": "Quiz Question #1",
+      "scene_index": "6.12"
+    },
+    {
+      "id": "5pXN7OVfmp3",
+      "title": "Quiz Question #2",
+      "scene_index": "6.13"
+    },
+    {
+      "id": "5mw0EHgdUsw",
+      "title": "Quiz Question #3",
+      "scene_index": "6.14"
+    },
+    {
+      "id": "6h2CAUVjYcE",
+      "title": "Quiz Question #4",
+      "scene_index": "6.15"
+    },
+    {
+      "id": "6JR30dZQeKy",
+      "title": "Quiz Results",
+      "scene_index": "6.16"
+    },
+    {
+      "id": "5cImI01Iusj",
+      "title": "Quiz Question #5",
+      "scene_index": "6.17"
+    },
+    {
+      "id": "6ZETyu1LMz4",
+      "title": "Quiz Results",
+      "scene_index": "6.18"
+    },
+    {
+      "id": "5ePbVhn8dwn",
+      "title": "Review Presentation",
+      "scene_index": "6.19"
+    },
+    {
+      "id": "6ccIVGzWSxC",
+      "title": "CONCLUSION",
+      "scene_index": "7.1"
+    },
+    {
+      "id": "5waQ9rRmXSz",
+      "title": "Next Steps",
+      "scene_index": "7.2"
+    },
+    {
+      "id": "6MmFx4C3aoB",
+      "title": "Thank you for watching",
+      "scene_index": "7.3"
+    },
+    {
+      "id": "6hBzJHTtHFU",
+      "title": "References",
+      "scene_index": "7.4"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
